@@ -1,7 +1,7 @@
 /* 
  * CSSE2310 A1
  * UQWordLadder
- * 47435278 - Hamza Khurram
+ * Author: Hamza
  */
 
 #include <stdlib.h>
